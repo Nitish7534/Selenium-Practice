@@ -16,24 +16,3 @@ The project includes various test scenarios such as handling web elements, locat
 * **IDE:** Eclipse
 
 ---
-
-## 📂 Project Structure
-
-```
-Selenium_Training/
-│── src/main/java/          # (Reusable classes - can be expanded)
-│── src/main/resources/     # Config files (future use)
-│── src/test/java/          # Test scripts
-│   ├── basic_web_driver_methods.java
-│   ├── CssSelectorDemo.java
-│   ├── DemoAutomation.java
-│   ├── locators.java
-│   ├── LoginTest.java
-│   ├── multi_select_dropdown.java
-│   ├── selectdropdown.java
-│   ├── webelementmethods.java
-│
-│── src/test/resources/     # Test data / TestNG XML (if added)
-│── pom.xml                 # Maven dependencies
-│── target/                 # Build files (ignored in Git)
-```
